@@ -1,0 +1,91 @@
+
+
+body{
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Nerko One', cursive;
+    
+}
+
+.a1{
+    /*section css class a1*/
+    
+    background :url(c.jpg) no-repeat;
+    height: 500px;
+    background-size: cover;
+    border-radius: 8px;
+    
+}
+.b1{
+    /*div b1 css*/
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-35%,-35%);
+}
+.a2{
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+#h1{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+#h2{
+   background-color: turquoise;
+   width: 100px;
+   height: 30px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10px;
+   border-radius: 10px;
+   outline: none;
+   border: none;
+   
+
+}
+span{
+    margin-left: 150px;
+}
+
+/*product item css sectiona3*/
+.a3{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+}
+.b2{
+    
+    float: left;
+    width: 30%;
+    margin-left: 2rem;
+}
+/*imag responsive*/
+.img2{
+    max-width: 100%;
+    border-radius: 5px;
+}
+/*click button*/
+.h3{
+    background-color: turquoise;
+   width: 100px;
+   height: 30px;
+   margin-left: 50px;
+   margin-right: auto;
+   margin-top: 10px;
+   border-radius: 10px;
+   outline: none;
+   border: none;
+}
