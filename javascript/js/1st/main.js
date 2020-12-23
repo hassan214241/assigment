@@ -1,14 +1,4 @@
-//const d = 20;
-//console.log(d);
 
-//let a = 3;
-//let b = 5;
-//let c = a + b;
-//console.log(a+b);
-
-// let firstname ="Muhammad";
-// let lastname = " Hassan";
-// console.log(firstname +""+lastname);
 
 const marks = 20;
 
