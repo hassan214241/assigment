@@ -14,7 +14,7 @@ if (marks >= 80){
 */
 
 
-const age = 19;
+const age = 39;
 
 if(age >= 60){
     console.log("you are senior");
@@ -28,3 +28,30 @@ if(age >= 60){
     console.log("you are child");
     console.log("you are not eligible for visa");
 }
+
+
+console.log(1);
+console.log(2);
+console.log(3);
+
+console.log(1);
+console.log(2);
+console.log(3);
+
+console.log(1);
+console.log(2);
+console.log(3);
+console.log("+++++++++++++++++++++++++++++++++++++++");
+
+
+function myFun(){
+    console.log(1);
+     console.log(2);
+     console.log(3);
+
+}
+
+
+myFun();
+myFun();
+myFun();
