@@ -29,7 +29,7 @@ if(age >= 60){
     console.log("you are not eligible for visa");
 }
 
-
+// use the function in javascrpit
 console.log(1);
 console.log(2);
 console.log(3);
@@ -55,3 +55,15 @@ function myFun(){
 myFun();
 myFun();
 myFun();
+
+
+
+function CalculateCircumference(r){
+    const result = 2 * 3.14 * r;
+    console.log("inside the function: " +  r + " is " +  result);
+    return result;
+}
+
+CalculateCircumference(54);
+CalculateCircumference(24);
+CalculateCircumference(534);
